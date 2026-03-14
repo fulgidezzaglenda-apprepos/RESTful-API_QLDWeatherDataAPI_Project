@@ -7,6 +7,7 @@ The Educational Weather Data API is a RESTful API built with .NET 10 SDK and a N
   * GET – Retrieve data
   * PUT / PATCH – Update existing data
   * DELETE – Remove data
+    
 Users must have a valid API key to access or modify weather data. API key is a secret token that act as a unique identifier to identify and authenticate the users and developer, functioning like a password for 
 applications that grant access to specific data and services and primarily used for authentication and access control ensuring secure access to data and prevents unauthorized use.
 
@@ -55,7 +56,7 @@ applications that grant access to specific data and services and primarily used 
 ![Swagger EndpointRequest](Screenshots/Swagger_EndpointsRequest.png)
 
 ### Sample Endpoint Response
-![Swagger_EndpointResponse(Screenshots/Swagger_EndpointsResponse.png)
+![Swagger EndpointResponse](Screenshots/Swagger_EndpointsResponse.png)
 
 ## Author
 
