@@ -15,19 +15,19 @@ applications that grant access to specific data and services and primarily used 
   * NoSQL database (MongoDB - for storing weather data). 
 
 ### How to Run the Project:
-  1. Clone the repository
-    * git clone https://github.com/yourusername/RESTful-API_QLDWeatherDataAPI_Project.git
-  2. Navigate to the project folder
-    * cd RESTful-API_QLDWeatherDataAPI_Project
-  3. Restore dependencies
-    * dotnet restore
-  4. Build the project
-    * dotnet build
-  5. Run the application
-    * dotnet run
-  6. Open the API in a browser
-    * https://localhost:7230/swagger
-    * this will launch Swagger UI, allowing you to test the API endpoints interactively.
+1. Clone the repository
+    * `git clone https://github.com/yourusername/RESTful-API_QLDWeatherDataAPI_Project.git`
+2. Navigate to the project folder
+    * `cd RESTful-API_QLDWeatherDataAPI_Project`
+3. Restore dependencies
+    * `dotnet restore`
+4. Build the project
+    * `dotnet build`
+5. Run the application
+    * `dotnet run`
+6. Open the API in a browser
+    * `https://localhost:7230/swagger`
+    * This will launch Swagger UI, allowing you to test the API endpoints interactively.
 
 ### Project Structures:
   * Controllers/   - API endpoints  
